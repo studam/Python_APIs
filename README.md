@@ -5,6 +5,9 @@ Whether financial, political, or social -- data's true power lies in its ability
 Now, we know what you may be thinking: "Duh. It gets hotter..."
 But, if pressed, how would you prove it?
 
+![obraz](https://user-images.githubusercontent.com/87150331/154318467-7b5d7e77-206f-4f0a-ac6f-4fb4be5e8415.png)
+
+
 
 Before You Begin
 
@@ -96,8 +99,10 @@ Note: if you having trouble displaying the maps, try running jupyter nbextension
 To complete this part of the assignment,you will need to do the following:
 
 
+
 Create a heat map that displays the humidity for every city from Part I.
 
+![obraz](https://user-images.githubusercontent.com/87150331/154319260-bb35bc91-5894-48b9-a7ef-915fc1164ef6.png)
 
 
 Narrow down the DataFrame to find your ideal weather condition. For example:
@@ -125,6 +130,7 @@ Using Google Places API to find the first hotel for each city located within 500
 
 Plot the hotels on top of the humidity heatmap with each pin containing the Hotel Name, City, and Country.
 
+![obraz](https://user-images.githubusercontent.com/87150331/154319385-434ce8a3-1b19-4ae1-bd30-a8ce8b99c2f3.png)
 
 
 As final considerations:
