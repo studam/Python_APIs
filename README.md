@@ -173,11 +173,8 @@ Remember that each coordinate will trigger a separate call to the Google API. If
 Ensure your repository has regular commits and a thorough README.md file.
 
 
-Lastly, remember -- this is a challenging activity. Push yourself! If you complete this task, then you can safely say that you've gained a strong mastery of the core foundations of data analytics and it will only go better from here. Good luck!
 
 
 
-Rubric
-Unit 6 Rubric - Python API Homework - What's the Weather Like?
 
 © 2021 Trilogy Education Services, LLC, a 2U, Inc. brand. Confidential and Proprietary. All Rights Reserved.
